@@ -19,7 +19,7 @@
 ![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<img src="https://www.jrebel.com/sites/default/files/image/2021-01/what%20is%20kotlin%20banner%20image.png" alt="image" width="60" height="28">
+<img src="https://www.jrebel.com/sites/default/files/image/2021-01/what%20is%20kotlin%20banner%20image.png" alt="image" width="65" height="28">
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
