@@ -19,7 +19,7 @@
 ![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*FNakkrty3kjOvNU8m5iQfw.png" alt="image" height="28">
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*FNakkrty3kjOvNU8m5iQfw.png" alt="image" height="28" width="60">
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
