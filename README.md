@@ -1,6 +1,7 @@
 ## Hi there, I'm Laura 
 #### I'm a high technician in web development, always willing to learn.
-<br><br>
+<br>
+
 ## LANGUAGES
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
