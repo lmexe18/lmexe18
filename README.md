@@ -1,5 +1,5 @@
 ## Hi there, I'm Laura 
-#### I'm a high technician in web development, always willing to learn.
+#### I'm a full stack developer with a higher technician degree in web development and additional training in artificial intelligence and big data. I'm always eager to learn and take on new challenges.
 <br>
 
 ## LANGUAGES
