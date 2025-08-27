@@ -36,11 +36,6 @@ Always eager to keep learning and growing.
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
-## GIS
-<img src="https://metromap.com.au/images/Arc_Exp.original.png" height="150" width="auto" margin-top="3">
-<img src="https://i0.wp.com/verticetopografiaintegral.com/wp-content/uploads/2022/12/ARCGIS-PRO.jpg" height="150" width="auto" margin-top="3">
-<img src="https://i0.wp.com/notjustbi.com/wp-content/uploads/2020/05/Google-APIs-x1200.jpg?resize=850%2C550&ssl=1" height="150" width="auto" margin-top="3">
-
 ## CLOUDS
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 <br>
@@ -52,6 +47,18 @@ Always eager to keep learning and growing.
 ## VIRTUALIZATION
 ![images](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![images](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+## GIS TOOLS & PLATFORMS
+- **ArcGIS Pro**  
+  - Creation of *Attribute Rules*  
+  - Development of custom interfaces  
+  - Creation of *Python scripts*  
+  - Use of **ArcPy** for process automation  
+
+- **ArcGIS Experience Builder**  
+  - Configuration of *Viewers*  
+  - Configuration of *Widgets*  
+  - Development of *Custom Widgets*  
+  - Use of **ArcGIS libraries** within *Custom Widgets*  
 
 
 ## MY STATS
