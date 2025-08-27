@@ -36,15 +36,14 @@ Always eager to keep learning and growing.
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
-## TOOLS & ENVIRONMENT
+## CLOUDS, VIRTUALIZATION AND TERMINALS
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![images](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![images](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2XOHuRidAitUaaEfkehZ7QN9xcub-4r0eg&s" height="28" width="55" margin-top="2">
 <br>
-## VIRTUALIZATION
-![images](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![images](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ## GIS TOOLS & PLATFORMS
 - **ArcGIS Pro** – Attribute Rules, custom interfaces, Python scripts, ArcPy  
 - **ArcGIS Experience Builder** – Viewers, Widgets, Custom Widgets, ArcGIS libraries
