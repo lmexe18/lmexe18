@@ -1,5 +1,8 @@
 ## Hi there, I'm Laura 
-#### I'm a full stack developer with a higher technician degree in web development and additional training in artificial intelligence and big data. I'm always eager to learn and take on new challenges.
+#### 
+I'm a Full Stack Developer with a Higher Technician Degree in Web Development, complemented by training in Artificial Intelligence and Big Data.
+Currently, I'm pursuing a Computer Engineering degree while working full-time as a Software Developer on an international GIS project.
+Always eager to keep learning and growing.
 <br>
 
 ## LANGUAGES
