@@ -36,10 +36,8 @@ Always eager to keep learning and growing.
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
-## CLOUDS
+## TOOLS & ENVIRONMENT
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-<br>
-## TERMINALS
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2XOHuRidAitUaaEfkehZ7QN9xcub-4r0eg&s" height="28" width="55" margin-top="2">
@@ -48,18 +46,8 @@ Always eager to keep learning and growing.
 ![images](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![images](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ## GIS TOOLS & PLATFORMS
-- **ArcGIS Pro**  
-  - Creation of *Attribute Rules*  
-  - Development of custom interfaces  
-  - Creation of *Python scripts*  
-  - Use of **ArcPy** for process automation  
-
-- **ArcGIS Experience Builder**  
-  - Configuration of *Viewers*  
-  - Configuration of *Widgets*  
-  - Development of *Custom Widgets*  
-  - Use of **ArcGIS libraries** within *Custom Widgets*  
-
-
+- **ArcGIS Pro** – Attribute Rules, custom interfaces, Python scripts, ArcPy  
+- **ArcGIS Experience Builder** – Viewers, Widgets, Custom Widgets, ArcGIS libraries
+- **Google API**
 ## MY STATS
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmexe18&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/lmexe18/github-readme-stats)
