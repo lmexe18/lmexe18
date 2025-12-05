@@ -45,8 +45,8 @@ Always eager to keep learning and growing.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2XOHuRidAitUaaEfkehZ7QN9xcub-4r0eg&s" height="28" width="55" margin-top="2">
 <br>
 ## GIS TOOLS & PLATFORMS
-- **ArcGIS Pro** – Attribute Rules, custom interfaces, Python scripts, ArcPy, Add-Ins  
-- **ArcGIS Experience Builder** – Custom widgets and viewers, configuration of out of the box tools
+- **ArcGIS Pro** – Development of Attribute Rules, Interfaces, Python Scripts and Add-Ins  
+- **ArcGIS Experience Builder** – Development of Widgets and Viewers, configuration of Out of the Box Tools
 - **Google API**
-## MY STATS
-[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmexe18&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/lmexe18/github-readme-stats)
+<!-- ## MY STATS -->
+<!-- [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmexe18&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/lmexe18/github-readme-stats) -->
