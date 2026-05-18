@@ -3,6 +3,8 @@
 I'm a Full Stack Developer with a Higher Technician Degree in Web Development, complemented by training in Artificial Intelligence and Big Data.
 Currently, I'm pursuing a Computer Engineering degree while working full-time as a Software Developer on an international GIS project.
 Always eager to keep learning and growing.
+
+[Link to my LinkedIn](https://www.linkedin.com/in/laura-mar%C3%ADa-pedraza-g%C3%B3mez-5833b2405/)
 <br>
 
 ## LANGUAGES
